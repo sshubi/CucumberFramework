@@ -1,0 +1,18 @@
+
+{
+  "valid_login_TC01": {
+    "UserId": "admin",
+    "Password": "admin"
+  },
+  "invalid_login_TC02": {
+   "UserId": "admin12",
+   "Password": "abcd"
+  },
+  "Create_leads_TC03": {
+   "UserId": "admin",
+  "Password": "admin",
+  "FirstName": "Shubham",
+  "LastName": "Tathe",
+  "Company": "Google"
+  }
+}
